@@ -3,4 +3,5 @@
     echo "Dit is een nieuwe regel code<hr>";
     echo "lololxdjeff";
     echo "lolreee";
+    echo "Lol test nummer infinite";
 ?>
