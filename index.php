@@ -4,4 +4,5 @@
     echo "lololxdjeff";
     echo "lolreee";
     echo "Lol test nummer infinite";
+    echo "hoi";
 ?>
